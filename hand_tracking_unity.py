@@ -5,7 +5,7 @@ import mediapipe.python.solutions.hands as mp_hands
 import mediapipe.python.solutions.drawing_utils as mp_drawing
 import mediapipe.python.solutions.drawing_styles as mp_drawing_styles
 
-
+"test1"
 
 host, port = "127.0.0.1", 25001
 
